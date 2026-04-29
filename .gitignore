@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database
+contentboost.db
+*.sqlite3
+
+# Scratch / Temp files
+scratch/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
